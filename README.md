@@ -1,6 +1,6 @@
 # FIFA 20 Player Clustering & Analysis
 
-Exploratory data analysis and unsupervised clustering of FIFA 20 players based on their skill attributes. Built as a Datamites capstone project (PRCP-1004).
+Exploratory data analysis and unsupervised clustering of FIFA 20 players based on their skill attributes.
 
 ## About
 
